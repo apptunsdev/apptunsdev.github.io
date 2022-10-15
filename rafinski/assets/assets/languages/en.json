@@ -1,0 +1,10 @@
+{
+  "main_screen": {
+    "test": "Test"
+  },
+  "error": {
+    "error": "error",
+    "not_connected": "Please check your internet connection",
+    "wrong_response": "Server returned wrong data"
+  }
+}
